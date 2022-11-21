@@ -21,3 +21,5 @@ pkg/
 
 # Go workspace file
 go.work
+
+my_setenv.sh
